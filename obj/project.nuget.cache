@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlOP9+diaL+qhJxdLuXlcF9FrLur9AkuP12sabeaW8tbKQbH31CNniZd/kB2rITLlMnMOS/WiJt22nXzfh57BQ==",
+  "dgSpecHash": "fVbLUOvBdq7mXij6KbhcMphHw7QiFjTHbKH8TkYY1g8Oq9Kats9uhdHk1u4Q4nsSFkfOcXb7AEY+ztx1SRgzgw==",
   "success": true,
-  "projectFilePath": "/home/john/Desktop/TechJobsAuthentication/TechJobsAuthentication.csproj",
+  "projectFilePath": "/home/john/Desktop/launchcode/TechJobsAuthentication/TechJobsAuthentication.csproj",
   "expectedPackageFiles": [
     "/home/john/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/john/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

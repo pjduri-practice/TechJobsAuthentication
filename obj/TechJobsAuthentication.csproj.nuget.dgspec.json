@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/john/Desktop/TechJobsAuthentication/TechJobsAuthentication.csproj": {}
+    "/home/john/Desktop/launchcode/TechJobsAuthentication/TechJobsAuthentication.csproj": {}
   },
   "projects": {
-    "/home/john/Desktop/TechJobsAuthentication/TechJobsAuthentication.csproj": {
+    "/home/john/Desktop/launchcode/TechJobsAuthentication/TechJobsAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/john/Desktop/TechJobsAuthentication/TechJobsAuthentication.csproj",
+        "projectUniqueName": "/home/john/Desktop/launchcode/TechJobsAuthentication/TechJobsAuthentication.csproj",
         "projectName": "TechJobsAuthentication",
-        "projectPath": "/home/john/Desktop/TechJobsAuthentication/TechJobsAuthentication.csproj",
+        "projectPath": "/home/john/Desktop/launchcode/TechJobsAuthentication/TechJobsAuthentication.csproj",
         "packagesPath": "/home/john/.nuget/packages/",
-        "outputPath": "/home/john/Desktop/TechJobsAuthentication/obj/",
+        "outputPath": "/home/john/Desktop/launchcode/TechJobsAuthentication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/john/.nuget/NuGet/NuGet.Config"
