@@ -29,7 +29,7 @@ namespace TechJobsAuthentication.Areas.Identity.Pages.Account
             _logger.LogInformation("User logged out.");
             if (returnUrl != null)
             {
-                return LocalRedirect(returnUrl);
+                return Redirect("https://www.youtube.com/watch?v=W1dRBWyf6z8");
             }
             else
             {
